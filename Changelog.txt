@@ -1,0 +1,10 @@
+SynHub v1.0.2
+
+- Mobile network failure is handled.
+- Added device refresh option.
+- UI level updates.
+
+
+Known bugs
+
+- Control page is refreshed while reconnecting.
