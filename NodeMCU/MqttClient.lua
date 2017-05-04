@@ -1,4 +1,3 @@
--- https://github.com/nodemcu/nodemcu-firmware/wiki/nodemcu_api_en
 print ("Mqttfile opened")
 mqttOnline = false
 mqttSubSuccess = false
