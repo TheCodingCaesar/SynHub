@@ -1,2 +1,2 @@
 # SynHub
-Open source Home automation system
+NodeMCU based Home automation system
